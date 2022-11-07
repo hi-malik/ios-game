@@ -5,7 +5,7 @@ Collection of simple demos of SwiftUI + SceneKit games
 
 ### Design
 - Pure `SwiftUI` at any cost. Zero `UIKit` imports
-- Full Apple-crossplatform. Playable on `iOS`, `macOS`. (`tvOS` later)
+- Full Apple-crossplatform. Playable on `iOS`. (`tvOS`, `macOS` later)
 - Only modern APIs, zero legacy support. `iOS 16+`
 - Zero dependencies
 - Zero projectiles. I hate projectiles
