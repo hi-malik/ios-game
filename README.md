@@ -24,3 +24,4 @@
 
 ## MinimalDemo
 Simple SCNScene with ball and some SwiftUI overlay
+<a href="#"><img width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(3).gif" height="175px"/></a>
