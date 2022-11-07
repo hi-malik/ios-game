@@ -1,4 +1,4 @@
-# war-Games (WIP)
+# war-Game (WIP)
 
 [TestFlight Beta](https://testflight.apple.com/join/52wVoy8Z "TestFlight Beta") (iOS 16+)
 
