@@ -21,3 +21,6 @@
 <p float = "left">
 <img src = "https://github.com/hi-malik/Personal/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20-%202022-11-07%20at%2016.45.52.png" alt="himalikGames" height = "300">
 </p>
+
+## MinimalDemo
+Simple SCNScene with ball and some SwiftUI overlay
